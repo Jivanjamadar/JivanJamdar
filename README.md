@@ -3,7 +3,7 @@
 - 🌱 I’m currently pursuing Bachelors in DS and AI in IITGuwahati
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me-
--   You can follow on X(Twitter) or On Linkedin 
+-   You can follow me  on X(Twitter) or On Linkedin 
 
 <!---
 Jivanjamadar/Jivanjamadar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
