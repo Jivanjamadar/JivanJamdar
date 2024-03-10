@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JivanJamdar
 - 👀 I’m interested in AI and DS
-- 🌱 I’m currently pursuing Bachelors in DS and AI in IITGuwahati
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently pursuing Bachelors in DS and AI from IIT*Guwahati
+
 - 📫 How to reach me-
 -   You can follow me  on X(Twitter) or On Linkedin 
 
