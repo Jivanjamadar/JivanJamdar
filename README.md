@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Jivan Jamdar</h1>
 <h3 align="center">Solving problems through tech...</h3>
 
@@ -13,7 +12,7 @@
 <a href="https://linkedin.com/in/jivan jamdar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jivan jamdar" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/jivan64" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="jivan64" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/jivantech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jivantech" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/jivanjamdar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="jivanjamdar" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/jivanjamdar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="jivanjamdar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
